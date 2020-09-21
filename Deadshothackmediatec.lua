@@ -1,10 +1,9 @@
--- Created By Utkarsh Singh Thakur --
--- Website :- www.crackthehack.club --
--- Github :- https://github.com/Utkarsh-Singh-Thakur --
+-- Created By Deadshot -- 
+-- Github :- https://github.com/ deadshot1777 --
 
 --Start
-gg.alert("ðŸ¤“Created By Utkarsh SinghðŸ¤“")
-gg.alert("ðŸ‘‰Follow me on insta :- utkarsh.singh_thakurðŸ‘ˆ")
+gg.alert("ðŸ¤“Created By Deadshot1777¤“")
+gg.alert("ðŸ‘‰Follow me on tele :- (Manzo12888)
 
 function home()
 menu = gg. multiChoice({
